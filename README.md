@@ -1,4 +1,4 @@
-Hello there, I am Aflinxh
+Hello there, I am Aflinxh.
 I am a learner who interested in programming, such as creating beautiful things in website and making cool things with: HTML, CSS, Javascript, PHP, Java.
 I love to challenge myself in making things, and in this section I've made a repository of Pure CSS ideas.
 
