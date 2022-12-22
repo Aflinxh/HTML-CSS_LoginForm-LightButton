@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/106858846/209103601-8f1adca6-a613-47f1
 
 - Shining Button when cursor hover
 - Running Line around Submit Border
-- Auto srink "Username" and "Password" text when input-box is clicked
+- Auto shrink "Username" and "Password" text when input-box is clicked
 - Easy to change the color of the html page in ":root" CSS
 - Adaptive in both PC and Mobile Screen
 
@@ -22,8 +22,8 @@ Hope this code will be useful for you, and it's free to use, yeay!
 
 You can also follow me in:
 
-- Github    : @Aflinxh | https://github.com/Aflinxh
-- Tiktok    : @Aflinxh | https://www.tiktok.com/@aflinxh
+- Github : @Aflinxh | https://github.com/Aflinxh
+- Tiktok : @Aflinxh | https://www.tiktok.com/@aflinxh
 - Pinterest : @Aflinxh | https://id.pinterest.com/Aflinxh
 
 Right now, I am focusing myself to create any programming ideas, making videos, and share it to all the people who need it. So, cheer!
