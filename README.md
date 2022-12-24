@@ -16,6 +16,7 @@ https://user-images.githubusercontent.com/106858846/209128816-0b0d67bd-2a03-4f00
 - Auto shrink "Username" and "Password" text when input-box is clicked
 - Easy to change the color of the web page and all the elements using ":root" CSS
 - Responsive and Adaptive on both PC and Mobile Screen
+- Explainable Source Code
 
 ---
 
